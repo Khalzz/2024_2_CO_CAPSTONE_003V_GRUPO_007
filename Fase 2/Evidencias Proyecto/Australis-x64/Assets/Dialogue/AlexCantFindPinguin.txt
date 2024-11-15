@@ -1,0 +1,2 @@
+talking,message
+Alex, "Hey, ¿dónde se encuentra el pingüino?"

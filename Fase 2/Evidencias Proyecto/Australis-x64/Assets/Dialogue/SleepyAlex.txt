@@ -1,0 +1,2 @@
+talking,message
+Alex, "Fue un viaje largo, quiero dormir un poco."
